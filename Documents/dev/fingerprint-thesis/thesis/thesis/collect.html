@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Fingerprint Thesis Collection </title>
+<script src="fp.min.js"></script>
+</head>
+
+<body>
+
+<section id="checklist">
+<h1>Pre-collection checklist</h1>
+<u1>
+    <li><input type="checkbox" id="c1"> <label for="c1"> Browser data cleared (history, cookies, cache, storage) </label></li>
+    <li><input type="checkbox" id="c2"> <label for="c2"> Browser freshly opened (no other tabs) </label></li>
+    <li><input type="checkbox" id="c3"> <label for="c3"> No active extensions </label></li>
+    <li><input type="checkbox" id="c4"> <label for="c4"> No VPN connected </label></li>
+</u1>
+</section>
+
+<!-- hidden until checklist done which is done w style-->
+<section id="config" style="display:none">
+    <h2> Session configuration </h2>
+
+    <label for="browser"> Browser </label>
+    <select id="browser">
+        <option value=""> -- select -- </option>
+        <option value="Chrome"> Chrome (Baseline) </option>
+        <option value="Firefox"> Firefox </option>
+        <option value="Brave"> Brave </option>
+        <option value="LibreWolf"> LibreWolf </option>
+        <option value="Edge"> Edge </option>
+        <option value="Tor Browser"> Tor Browser </option>
+        <option value="Mullvad Browser"> Mullvad Browser </option>
+    </select>
+
+    <label for="session"> Session number (1-10) </label>
+    <input type="number" id="session" min="1" max="10">
+
+    <label for="mode"> Mode </label>
+    <select id="mode">
+        <option value=""> -- select -- </option>
+        <option value="normal"> Normal </option>
+         <option value="incognito"> Incognito </option>
+    </select>
+
+    <button id="start-collection-button" style="display:none"> Start collection </button>
+</section>
+
+<section id="collection" style="display:none">
+    <h2> Data collection </h2>
+</section>
+
+<script>
+    const boxes = Array.from(document.querySelectorAll('input[type="checkbox"]'));
+    const configSection = document.getElementById('config');
+
+    boxes.forEach(box => {
+        box.addEventListener('change', function() {
+            if (boxes.every(b => b.checked)) {
+                configSection.style.display = 'block';
+            } else {
+                configSection.style.display = 'none';
+            }
+    });
+});
+
+const startButton = document.getElementById('start-collection-button');
+const browserInput = document.getElementById('browser');
+const modeInput = document.getElementById('mode');
+const sessionInput = document.getElementById('session');
+
+function checkConfig(){
+    if (browserInput.value && modeInput.value && sessionInput.value){
+        startButton.style.display = 'block';
+    } else {
+        startButton.style.display = 'none';
+    }
+}
+
+browserInput.addEventListener('change', checkConfig);
+modeInput.addEventListener('change', checkConfig);
+sessionInput.addEventListener('input', checkConfig);
+
+ const collectionSection = document.getElementById('collection');
+
+    startButton.addEventListener('click', async function() {
+        collectionSection.style.display='block';
+        startButton.disabled = true;
+
+        const fp = await FingerprintJS.load();
+        const results = [];
+
+        for (let i = 1; i <= 10; i++){ <!-- bc we wanna run a major voting attack simulation, not to be conofused with the 10 sessions we alos do -->
+            const result = await fp.get();
+            results.push(result);
+            collectionSection.innerHTML = `<h2> Data Collection </h2> <p> Run ${i} of complete...</p>`
+        }
+
+        showResults(results);    
+    });
+
+    function showResults(results){
+       const resultData = {
+        meta: {
+            browser: browserInput.value,
+            mode: modeInput.value,
+            session: parseInt(sessionInput.value),
+            timestamp: new Date().toISOString(),
+            userAgent: navigator.userAgent
+        },
+        runs: results.map((r,i) => ({
+            run: i + 1,
+            visitorId: r.visitorId, 
+            components: r.components
+
+        }))
+    };
+
+    collectionSection.innerHTML = `
+    <h2> Data Collection </h2>
+    <p> 10 runs complete, copy JSON below and export as a file. </p>
+    <p> Filename; ${browserInput.value.replace(' ', '_').toLowerCase()}_${modeInput.value}_session${sessionInput.value.padStart(2, '0')}.json</p>
+    <textarea rows="20" cols="80" readonly>${JSON.stringify(resultData, null, 2)}</textarea>
+    `;
+    }
+
+</script>
+
+</body>
+</html>

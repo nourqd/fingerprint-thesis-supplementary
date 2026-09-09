@@ -1,0 +1,24 @@
+Name          Id            Version        Source
+--------------------------------------------------
+Google Chrome Google.Chrome 151.0.7922.138 winget
+
+Name                        Id              Version Source
+-----------------------------------------------------------
+Mozilla Firefox (x64 en-US) Mozilla.Firefox 153.0.3 winget
+
+Name  Id          Version      Source
+--------------------------------------
+Brave Brave.Brave 151.1.93.132 winget
+
+Name      Id                  Version   Source
+-----------------------------------------------
+LibreWolf LibreWolf.LibreWolf 153.0.3-1 winget
+
+Name           Id             Version       Source
+---------------------------------------------------
+Microsoft Edge Microsoft.Edge 151.0.4129.78 winget
+
+
+Name            Id                        Version Source
+---------------------------------------------------------
+Mullvad Browser MullvadVPN.MullvadBrowser 15.0.19 winget

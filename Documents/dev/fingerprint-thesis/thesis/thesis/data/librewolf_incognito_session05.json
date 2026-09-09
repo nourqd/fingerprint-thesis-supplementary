@@ -1,0 +1,2971 @@
+{
+  "meta": {
+    "browser": "LibreWolf",
+    "mode": "incognito",
+    "session": 5,
+    "timestamp": "2026-08-12T20:21:34.507Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0"
+  },
+  "runs": [
+    {
+      "run": 1,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 2,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 3,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 4,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 5,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 6,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 7,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 8,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 9,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "run": 10,
+      "visitorId": "8bc3efa5543a127ab88b0b517b1e5a02",
+      "components": {
+        "userAgentData": {
+          "duration": 16
+        },
+        "fonts": {
+          "value": [
+            "Calibri",
+            "HELV",
+            "MS UI Gothic",
+            "Marlett",
+            "Segoe UI Light",
+            "Small Fonts"
+          ],
+          "duration": 33
+        },
+        "domBlockers": {
+          "duration": 33
+        },
+        "fontPreferences": {
+          "value": {
+            "default": 149.35000610351562,
+            "apple": 149.35000610351562,
+            "serif": 149.35000610351562,
+            "sans": 144.01666259765625,
+            "mono": 121.55000305175781,
+            "min": 9.366668701171875,
+            "system": 149.35000610351562
+          },
+          "duration": 33
+        },
+        "audio": {
+          "value": 35.749972093850374,
+          "duration": 16
+        },
+        "screenFrame": {
+          "duration": 0
+        },
+        "canvas": {
+          "value": {
+            "winding": true,
+            "geometry": "skipped",
+            "text": "skipped"
+          },
+          "duration": 17
+        },
+        "osCpu": {
+          "value": "Windows NT 10.0; Win64; x64",
+          "duration": 0
+        },
+        "languages": {
+          "value": [
+            [
+              "en-US"
+            ],
+            [
+              "en-US",
+              "en"
+            ]
+          ],
+          "duration": 0
+        },
+        "colorDepth": {
+          "value": 24,
+          "duration": 0
+        },
+        "deviceMemory": {
+          "duration": 0
+        },
+        "screenResolution": {
+          "value": [
+            600,
+            1399
+          ],
+          "duration": 0
+        },
+        "hardwareConcurrency": {
+          "value": 4,
+          "duration": 0
+        },
+        "timezone": {
+          "value": "Atlantic/Reykjavik",
+          "duration": 0
+        },
+        "sessionStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "localStorage": {
+          "value": true,
+          "duration": 0
+        },
+        "indexedDB": {
+          "value": true,
+          "duration": 0
+        },
+        "openDatabase": {
+          "value": false,
+          "duration": 0
+        },
+        "cpuClass": {
+          "duration": 0
+        },
+        "platform": {
+          "value": "Win32",
+          "duration": 0
+        },
+        "plugins": {
+          "value": [
+            {
+              "name": "PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chrome PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Chromium PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "Microsoft Edge PDF Viewer",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            },
+            {
+              "name": "WebKit built-in PDF",
+              "description": "Portable Document Format",
+              "mimeTypes": [
+                {
+                  "type": "application/pdf",
+                  "suffixes": "pdf"
+                },
+                {
+                  "type": "text/pdf",
+                  "suffixes": "pdf"
+                }
+              ]
+            }
+          ],
+          "duration": 0
+        },
+        "touchSupport": {
+          "value": {
+            "maxTouchPoints": 10,
+            "touchEvent": false,
+            "touchStart": false
+          },
+          "duration": 0
+        },
+        "vendor": {
+          "value": "",
+          "duration": 0
+        },
+        "vendorFlavors": {
+          "value": [],
+          "duration": 0
+        },
+        "cookiesEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "colorGamut": {
+          "value": "srgb",
+          "duration": 0
+        },
+        "invertedColors": {
+          "duration": 0
+        },
+        "forcedColors": {
+          "value": false,
+          "duration": 0
+        },
+        "monochrome": {
+          "value": 0,
+          "duration": 0
+        },
+        "contrast": {
+          "value": 0,
+          "duration": 0
+        },
+        "reducedMotion": {
+          "value": false,
+          "duration": 0
+        },
+        "reducedTransparency": {
+          "duration": 0
+        },
+        "hdr": {
+          "value": false,
+          "duration": 0
+        },
+        "math": {
+          "value": {
+            "acos": 1.4473588658278522,
+            "acosh": 709.889355822726,
+            "acoshPf": 355.291251501643,
+            "asin": 0.12343746096704435,
+            "asinh": 0.881373587019543,
+            "asinhPf": 0.8813735870195429,
+            "atanh": 0.5493061443340548,
+            "atanhPf": 0.5493061443340548,
+            "atan": 0.4636476090008061,
+            "sin": 0.8178819121159085,
+            "sinh": 1.1752011936438014,
+            "sinhPf": 2.534342107873324,
+            "cos": -0.8390715290095377,
+            "cosh": 1.5430806348152437,
+            "coshPf": 1.5430806348152437,
+            "tan": -1.4214488238747245,
+            "tanh": 0.7615941559557649,
+            "tanhPf": 0.7615941559557649,
+            "exp": 2.718281828459045,
+            "expm1": 1.718281828459045,
+            "expm1Pf": 1.718281828459045,
+            "log1p": 2.3978952727983707,
+            "log1pPf": 2.3978952727983707,
+            "powPI": 1.9275814160560206e-50
+          },
+          "duration": 0
+        },
+        "pdfViewerEnabled": {
+          "value": true,
+          "duration": 0
+        },
+        "architecture": {
+          "value": 255,
+          "duration": 0
+        },
+        "applePay": {
+          "value": -1,
+          "duration": 0
+        },
+        "privateClickMeasurement": {
+          "duration": 0
+        },
+        "audioBaseLatency": {
+          "value": -2,
+          "duration": 0
+        },
+        "dateTimeLocale": {
+          "value": "en-SE",
+          "duration": 0
+        },
+        "webGlBasics": {
+          "value": -1,
+          "duration": 0
+        },
+        "webGlExtensions": {
+          "value": -1,
+          "duration": 0
+        }
+      }
+    }
+  ]
+}
