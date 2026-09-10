@@ -4,7 +4,7 @@ Materials for the bachelor's thesis:\
 Browser Fingerprinting Resistance in 2026: An Empirical Audit Across Seven Browsers\
 Comparing Noise Injection, Blocking andStandardisation-Based Defences\
 DiVA link: *insert*\
-Author: Nour Qassim Derweesh, KTH Royal Institute of Technology, 2026\
+Author: Nour Qassim Derweesh, KTH Royal Institute of Technology, 2026
 
 ## Contents
 
