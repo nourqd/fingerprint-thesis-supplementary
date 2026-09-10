@@ -19,4 +19,4 @@ Author: Nour Qassim Derweesh, KTH Royal Institute of Technology, 2026
 - Place session JSON files in a 'data/' folder in the same directory as 'analyse.py'
 
 ## Raw session data
-The 140 collected JSON session files are located in the 'data/' folder.
+The 140 collected JSON session files are located in the 'data/' folder. (author's own data files are included in this repo)
